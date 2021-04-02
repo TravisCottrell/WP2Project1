@@ -1,0 +1,7 @@
+AF;Africa
+AN;Antarctica
+AS;Asia
+SA;South America
+EU;Europe
+NA;North America
+OC;Oceania
